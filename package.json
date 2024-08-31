@@ -1,0 +1,27 @@
+{
+  "name": "dbtranslator",
+  "version": "1.0.0",
+  "description": "A simple translation package for Discord bots to handle multiple languages with server-specific language preferences.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Creative-Framework/dbtranslator.git"
+  },
+  "keywords": [
+    "discord",
+    "translation",
+    "bot",
+    "multilingual",
+    "discord-bot",
+    "dbtranslator"
+  ],
+  "author": "amtixdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Creative-Framework/dbtranslator/issues"
+  },
+  "homepage": "https://github.com/Creative-Framework/dbtranslator#readme"
+}
